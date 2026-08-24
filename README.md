@@ -23,7 +23,7 @@ This Docker image contains a custom bundle of ESA SNAP 15.0.0 with specific depe
 | `jackson-core.jar` | 2.19.0 | **2.21.4** | Security fixes |
 | `aircompressor.jar` | 0.27 | **2.0.3** | Security fixes |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Build the Docker Image
 
